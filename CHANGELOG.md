@@ -10,6 +10,17 @@ El proyecto sigue el estándar [Semantic Versioning (SemVer)](https://semver.org
 
 ## [Unreleased]
 
+## [0.0.3-pre-alpha] - 2026-10-15
+
+### Added
+- Dataset histórico de sueldos de alcaldes para las 346 comunas de Chile 2018-2024 (`data/raw/alcaldes_remuneraciones_comunas.csv`).
+- Dataset de referencia y componentes de la escala municipal de alcaldes Grados 1° al 6° (`data/raw/escala_municipal_alcaldes_historico.csv`).
+- Documento técnico de análisis de sueldos edilicios: `docs/ALCALDES_REMUNERACIONES.md` (Ley 18.695 Art. 69, DL 3551, categorización municipal y asignaciones de zona).
+- Actualización de fuentes oficiales con SINIM / SUBDERE y Transparencia Activa Municipal (CPLT) en `docs/FUENTES.md`.
+- Script reproducible: `scripts/build_alcaldes_salarios.py`.
+- Catálogo histórico de políticos en Chile 2018-2026 (`data/raw/politicos_chile_historico.csv`) con 439 registros vinculados a distritos, circunscripciones, comunas y país.
+- Script de extracción desde BCN / SERVEL: `scripts/build_politicos_historico.py`.
+
 ## [0.0.2-pre-alpha] - 2026-10-15
 
 ### Added

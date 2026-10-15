@@ -55,3 +55,34 @@ Este documento registra los portales, marcos regulatorios y organismos oficiales
   * [`data/raw/asignaciones_gastos_politicos.csv`](../data/raw/asignaciones_gastos_politicos.csv)
   * [`data/raw/distritos_gastos_operacionales.csv`](../data/raw/distritos_gastos_operacionales.csv)
 * **Script:** [`scripts/generate_distritos_gastos.py`](../scripts/generate_distritos_gastos.py).
+
+---
+
+## 4. Remuneraciones Municipales y Alcaldes
+
+### Sistema Nacional de Información Municipal (SINIM — SUBDERE)
+* **Organismo:** Subsecretaría de Desarrollo Regional y Administrativo (SUBDERE).
+* **URL:** https://www.sinim.gov.cl
+* **Descripción:** Categorización oficial de municipalidades (1ª a 6ª categoría), grados asignados a la planta directiva (alcaldes) y estadísticas financieras municipales.
+
+### Consejo para la Transparencia (CPLT) — Transparencia Activa Municipal
+* **Plataforma:** Portal de Transparencia de las 345 Municipalidades de Chile.
+* **URL:** https://www.portaltransparencia.cl
+* **Descripción:** Planillas mensuales de personal de planta (Estamento Alcalde), con desglose de sueldo base, asignación municipal, asignación de dirección superior (Art. 69 Ley 18.695) y asignaciones de zona.
+* **Archivos asociados:**
+  * [`data/raw/alcaldes_remuneraciones_comunas.csv`](../data/raw/alcaldes_remuneraciones_comunas.csv)
+  * [`data/raw/escala_municipal_alcaldes_historico.csv`](../data/raw/escala_municipal_alcaldes_historico.csv)
+* **Script:** [`scripts/build_alcaldes_salarios.py`](../scripts/build_alcaldes_salarios.py).
+
+---
+
+## 5. Catálogo de Políticos y Nóminas Históricas
+
+### Biblioteca del Congreso Nacional (BCN) y Servicio Electoral (SERVEL)
+* **Plataformas:** BCN Reseñas Biográficas Parlamentarias (https://www.bcn.cl/historiapolitica) y Archivo Electoral SERVEL (https://www.servel.cl).
+* **Descripción:** Nóminas oficiales de parlamentarios electos por distrito y circunscripción para los periodos legislativos LV (2018-2022) y LVI (2022-2026), autoridades del Poder Ejecutivo y alcaldes de capitales y comunas principales.
+* **Archivos asociados:**
+  * [`data/raw/politicos_chile_historico.csv`](../data/raw/politicos_chile_historico.csv)
+* **Script:** [`scripts/build_politicos_historico.py`](../scripts/build_politicos_historico.py).
+
+
