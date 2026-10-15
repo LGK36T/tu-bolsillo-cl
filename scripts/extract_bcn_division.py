@@ -152,13 +152,28 @@ def main():
 
         # Código Único Territorial (CUT) a 5 dígitos
         codigo_cut = raw_idcom.zfill(5) if raw_idcom else ""
+        if comuna == "Antártica" and codigo_cut == "12201":
+            codigo_cut = "12202"
+
+        circ_num = int(re.search(r"(\d+)", circunscripcion).group(1)) if re.search(r"(\d+)", circunscripcion) else 0
+        dist_num = int(re.search(r"(\d+)", distrito).group(1)) if re.search(r"(\d+)", distrito) else 0
+        region_cut = codigo_cut[:2]
+
+        id_region = f"REG-{region_cut}"
+        id_circ = f"CIRC-{circ_num:02d}"
+        id_dist = f"DIST-{dist_num:02d}"
+        id_com = f"COM-{codigo_cut}"
 
         records.append({
+            "id_region": id_region,
             "region": region,
+            "id_circunscripcion": id_circ,
             "circunscripcion": circunscripcion,
             "senadores_circunscripcion": senadores,
+            "id_distrito": id_dist,
             "distrito": distrito,
             "diputados_distrito": diputados,
+            "id_comuna": id_com,
             "comuna": comuna,
             "codigo_comuna_cut": codigo_cut
         })
@@ -166,11 +181,15 @@ def main():
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
     with open(OUTPUT_FILE, mode="w", encoding="utf-8", newline="") as f:
         fieldnames = [
+            "id_region",
             "region",
+            "id_circunscripcion",
             "circunscripcion",
             "senadores_circunscripcion",
+            "id_distrito",
             "distrito",
             "diputados_distrito",
+            "id_comuna",
             "comuna",
             "codigo_comuna_cut"
         ]

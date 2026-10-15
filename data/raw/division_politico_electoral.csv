@@ -1,347 +1,347 @@
-region,circunscripcion,senadores_circunscripcion,distrito,diputados_distrito,comuna,codigo_comuna_cut
-Región de Arica y Parinacota,1ª,2,Distrito 1,3,Arica,15101
-Región de Arica y Parinacota,1ª,2,Distrito 1,3,Camarones,15102
-Región de Arica y Parinacota,1ª,2,Distrito 1,3,General Lagos,15202
-Región de Arica y Parinacota,1ª,2,Distrito 1,3,Putre,15201
-Región de Tarapacá,2ª,2,Distrito 2,3,Alto Hospicio,01107
-Región de Tarapacá,2ª,2,Distrito 2,3,Camiña,01402
-Región de Tarapacá,2ª,2,Distrito 2,3,Colchane,01403
-Región de Tarapacá,2ª,2,Distrito 2,3,Huara,01404
-Región de Tarapacá,2ª,2,Distrito 2,3,Iquique,01101
-Región de Tarapacá,2ª,2,Distrito 2,3,Pica,01405
-Región de Tarapacá,2ª,2,Distrito 2,3,Pozo Almonte,01401
-Región de Antofagasta,3ª,3,Distrito 3,5,Antofagasta,02101
-Región de Antofagasta,3ª,3,Distrito 3,5,Calama,02201
-Región de Antofagasta,3ª,3,Distrito 3,5,María Elena,02302
-Región de Antofagasta,3ª,3,Distrito 3,5,Mejillones,02102
-Región de Antofagasta,3ª,3,Distrito 3,5,Ollagüe,02202
-Región de Antofagasta,3ª,3,Distrito 3,5,San Pedro de Atacama,02203
-Región de Antofagasta,3ª,3,Distrito 3,5,Sierra Gorda,02103
-Región de Antofagasta,3ª,3,Distrito 3,5,Taltal,02104
-Región de Antofagasta,3ª,3,Distrito 3,5,Tocopilla,02301
-Región de Atacama,4ª,2,Distrito 4,5,Alto del Carmen,03302
-Región de Atacama,4ª,2,Distrito 4,5,Caldera,03102
-Región de Atacama,4ª,2,Distrito 4,5,Chañaral,03201
-Región de Atacama,4ª,2,Distrito 4,5,Copiapó,03101
-Región de Atacama,4ª,2,Distrito 4,5,Diego de Almagro,03202
-Región de Atacama,4ª,2,Distrito 4,5,Freirina,03303
-Región de Atacama,4ª,2,Distrito 4,5,Huasco,03304
-Región de Atacama,4ª,2,Distrito 4,5,Tierra Amarilla,03103
-Región de Atacama,4ª,2,Distrito 4,5,Vallenar,03301
-Región de Coquimbo,5ª,3,Distrito 5,7,Andacollo,04103
-Región de Coquimbo,5ª,3,Distrito 5,7,Canela,04202
-Región de Coquimbo,5ª,3,Distrito 5,7,Combarbalá,04302
-Región de Coquimbo,5ª,3,Distrito 5,7,Coquimbo,04102
-Región de Coquimbo,5ª,3,Distrito 5,7,Illapel,04201
-Región de Coquimbo,5ª,3,Distrito 5,7,La Higuera,04104
-Región de Coquimbo,5ª,3,Distrito 5,7,La Serena,04101
-Región de Coquimbo,5ª,3,Distrito 5,7,Los Vilos,04203
-Región de Coquimbo,5ª,3,Distrito 5,7,Monte Patria,04303
-Región de Coquimbo,5ª,3,Distrito 5,7,Ovalle,04301
-Región de Coquimbo,5ª,3,Distrito 5,7,Paihuano,04105
-Región de Coquimbo,5ª,3,Distrito 5,7,Punitaqui,04304
-Región de Coquimbo,5ª,3,Distrito 5,7,Río Hurtado,04305
-Región de Coquimbo,5ª,3,Distrito 5,7,Salamanca,04204
-Región de Coquimbo,5ª,3,Distrito 5,7,Vicuña,04106
-Región de Valparaíso,6ª,5,Distrito 6,8,Cabildo,05402
-Región de Valparaíso,6ª,5,Distrito 6,8,Calle Larga,05302
-Región de Valparaíso,6ª,5,Distrito 6,8,Catemu,05702
-Región de Valparaíso,6ª,5,Distrito 6,8,Hijuelas,05503
-Región de Valparaíso,6ª,5,Distrito 6,8,La Calera,05502
-Región de Valparaíso,6ª,5,Distrito 6,8,La Cruz,05504
-Región de Valparaíso,6ª,5,Distrito 6,8,La Ligua,05401
-Región de Valparaíso,6ª,5,Distrito 6,8,Limache,05802
-Región de Valparaíso,6ª,5,Distrito 6,8,Llaillay,05703
-Región de Valparaíso,6ª,5,Distrito 6,8,Los Andes,05301
-Región de Valparaíso,6ª,5,Distrito 6,8,Nogales,05506
-Región de Valparaíso,6ª,5,Distrito 6,8,Olmué,05803
-Región de Valparaíso,6ª,5,Distrito 6,8,Panquehue,05704
-Región de Valparaíso,6ª,5,Distrito 6,8,Papudo,05403
-Región de Valparaíso,6ª,5,Distrito 6,8,Petorca,05404
-Región de Valparaíso,6ª,5,Distrito 6,8,Puchuncaví,05105
-Región de Valparaíso,6ª,5,Distrito 6,8,Putaendo,05705
-Región de Valparaíso,6ª,5,Distrito 6,8,Quillota,05501
-Región de Valparaíso,6ª,5,Distrito 6,8,Quilpué,05801
-Región de Valparaíso,6ª,5,Distrito 6,8,Quintero,05107
-Región de Valparaíso,6ª,5,Distrito 6,8,Rinconada,05303
-Región de Valparaíso,6ª,5,Distrito 6,8,San Esteban,05304
-Región de Valparaíso,6ª,5,Distrito 6,8,San Felipe,05701
-Región de Valparaíso,6ª,5,Distrito 6,8,Santa María,05706
-Región de Valparaíso,6ª,5,Distrito 6,8,Villa Alemana,05804
-Región de Valparaíso,6ª,5,Distrito 6,8,Zapallar,05405
-Región de Valparaíso,6ª,5,Distrito 7,8,Concón,05103
-Región de Valparaíso,6ª,5,Distrito 7,8,Isla de Pascua,05201
-Región de Valparaíso,6ª,5,Distrito 7,8,Juan Fernández,05104
-Región de Valparaíso,6ª,5,Distrito 7,8,Valparaíso,05101
-Región de Valparaíso,6ª,5,Distrito 7,8,Viña del Mar,05109
-Región de Valparaíso,6ª,5,Distrito 7,8,Algarrobo,05602
-Región de Valparaíso,6ª,5,Distrito 7,8,Cartagena,05603
-Región de Valparaíso,6ª,5,Distrito 7,8,Casablanca,05102
-Región de Valparaíso,6ª,5,Distrito 7,8,El Quisco,05604
-Región de Valparaíso,6ª,5,Distrito 7,8,El Tabo,05605
-Región de Valparaíso,6ª,5,Distrito 7,8,San Antonio,05601
-Región de Valparaíso,6ª,5,Distrito 7,8,Santo Domingo,05606
-Región Metropolitana de Santiago,7ª,5,Distrito 8,8,Cerrillos,13102
-Región Metropolitana de Santiago,7ª,5,Distrito 8,8,Colina,13301
-Región Metropolitana de Santiago,7ª,5,Distrito 8,8,Estación Central,13106
-Región Metropolitana de Santiago,7ª,5,Distrito 8,8,Lampa,13302
-Región Metropolitana de Santiago,7ª,5,Distrito 8,8,Maipú,13119
-Región Metropolitana de Santiago,7ª,5,Distrito 8,8,Pudahuel,13124
-Región Metropolitana de Santiago,7ª,5,Distrito 8,8,Quilicura,13125
-Región Metropolitana de Santiago,7ª,5,Distrito 8,8,Tiltil,13303
-Región Metropolitana de Santiago,7ª,5,Distrito 9,7,Cerro Navia,13103
-Región Metropolitana de Santiago,7ª,5,Distrito 9,7,Conchalí,13104
-Región Metropolitana de Santiago,7ª,5,Distrito 9,7,Huechuraba,13107
-Región Metropolitana de Santiago,7ª,5,Distrito 9,7,Independencia,13108
-Región Metropolitana de Santiago,7ª,5,Distrito 9,7,Lo Prado,13117
-Región Metropolitana de Santiago,7ª,5,Distrito 9,7,Quinta Normal,13126
-Región Metropolitana de Santiago,7ª,5,Distrito 9,7,Recoleta,13127
-Región Metropolitana de Santiago,7ª,5,Distrito 9,7,Renca,13128
-Región Metropolitana de Santiago,7ª,5,Distrito 10,8,La Granja,13111
-Región Metropolitana de Santiago,7ª,5,Distrito 10,8,Macul,13118
-Región Metropolitana de Santiago,7ª,5,Distrito 10,8,Ñuñoa,13120
-Región Metropolitana de Santiago,7ª,5,Distrito 10,8,Providencia,13123
-Región Metropolitana de Santiago,7ª,5,Distrito 10,8,San Joaquín,13129
-Región Metropolitana de Santiago,7ª,5,Distrito 10,8,Santiago,13101
-Región Metropolitana de Santiago,7ª,5,Distrito 11,6,La Reina,13113
-Región Metropolitana de Santiago,7ª,5,Distrito 11,6,Las Condes,13114
-Región Metropolitana de Santiago,7ª,5,Distrito 11,6,Lo Barnechea,13115
-Región Metropolitana de Santiago,7ª,5,Distrito 11,6,Peñalolén,13122
-Región Metropolitana de Santiago,7ª,5,Distrito 11,6,Vitacura,13132
-Región Metropolitana de Santiago,7ª,5,Distrito 12,7,La Florida,13110
-Región Metropolitana de Santiago,7ª,5,Distrito 12,7,La Pintana,13112
-Región Metropolitana de Santiago,7ª,5,Distrito 12,7,Pirque,13202
-Región Metropolitana de Santiago,7ª,5,Distrito 12,7,Puente Alto,13201
-Región Metropolitana de Santiago,7ª,5,Distrito 12,7,San José de Maipo,13203
-Región Metropolitana de Santiago,7ª,5,Distrito 13,5,El Bosque,13105
-Región Metropolitana de Santiago,7ª,5,Distrito 13,5,La Cisterna,13109
-Región Metropolitana de Santiago,7ª,5,Distrito 13,5,Lo Espejo,13116
-Región Metropolitana de Santiago,7ª,5,Distrito 13,5,Pedro Aguirre Cerda,13121
-Región Metropolitana de Santiago,7ª,5,Distrito 13,5,San Miguel,13130
-Región Metropolitana de Santiago,7ª,5,Distrito 13,5,San Ramón,13131
-Región Metropolitana de Santiago,7ª,5,Distrito 14,6,Alhué,13502
-Región Metropolitana de Santiago,7ª,5,Distrito 14,6,Buin,13402
-Región Metropolitana de Santiago,7ª,5,Distrito 14,6,Calera de Tango,13403
-Región Metropolitana de Santiago,7ª,5,Distrito 14,6,Curacaví,13503
-Región Metropolitana de Santiago,7ª,5,Distrito 14,6,El Monte,13602
-Región Metropolitana de Santiago,7ª,5,Distrito 14,6,Isla de Maipo,13603
-Región Metropolitana de Santiago,7ª,5,Distrito 14,6,María Pinto,13504
-Región Metropolitana de Santiago,7ª,5,Distrito 14,6,Melipilla,13501
-Región Metropolitana de Santiago,7ª,5,Distrito 14,6,Padre Hurtado,13604
-Región Metropolitana de Santiago,7ª,5,Distrito 14,6,Paine,13404
-Región Metropolitana de Santiago,7ª,5,Distrito 14,6,Peñaflor,13605
-Región Metropolitana de Santiago,7ª,5,Distrito 14,6,San Bernardo,13401
-Región Metropolitana de Santiago,7ª,5,Distrito 14,6,San Pedro,13505
-Región Metropolitana de Santiago,7ª,5,Distrito 14,6,Talagante,13601
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 15,5,Codegua,06102
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 15,5,Coinco,06103
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 15,5,Coltauco,06104
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 15,5,Doñihue,06105
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 15,5,Graneros,06106
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 15,5,Machalí,06108
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 15,5,Malloa,06109
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 15,5,Mostazal,06110
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 15,5,Olivar,06111
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 15,5,Quinta de Tilcoco,06114
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 15,5,Rancagua,06101
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 15,5,Rengo,06115
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 15,5,Requínoa,06116
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 16,4,Chépica,06302
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 16,4,Chimbarongo,06303
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 16,4,La Estrella,06202
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 16,4,Las Cabras,06107
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 16,4,Litueche,06203
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 16,4,Lolol,06304
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 16,4,Marchihue,06204
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 16,4,Nancagua,06305
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 16,4,Navidad,06205
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 16,4,Palmilla,06306
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 16,4,Paredones,06206
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 16,4,Peralillo,06307
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 16,4,Peumo,06112
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 16,4,Pichidegua,06113
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 16,4,Pichilemu,06201
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 16,4,Placilla,06308
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 16,4,Pumanque,06309
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 16,4,San Fernando,06301
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 16,4,Santa Cruz,06310
-Región del Libertador General Bernardo O'Higgins,8ª,3,Distrito 16,4,San Vicente,06117
-Región del Maule,9ª,5,Distrito 17,7,Constitución,07102
-Región del Maule,9ª,5,Distrito 17,7,Curepto,07103
-Región del Maule,9ª,5,Distrito 17,7,Curicó,07301
-Región del Maule,9ª,5,Distrito 17,7,Empedrado,07104
-Región del Maule,9ª,5,Distrito 17,7,Hualañé,07302
-Región del Maule,9ª,5,Distrito 17,7,Licantén,07303
-Región del Maule,9ª,5,Distrito 17,7,Maule,07105
-Región del Maule,9ª,5,Distrito 17,7,Molina,07304
-Región del Maule,9ª,5,Distrito 17,7,Pelarco,07106
-Región del Maule,9ª,5,Distrito 17,7,Pencahue,07107
-Región del Maule,9ª,5,Distrito 17,7,Rauco,07305
-Región del Maule,9ª,5,Distrito 17,7,Río Claro,07108
-Región del Maule,9ª,5,Distrito 17,7,Romeral,07306
-Región del Maule,9ª,5,Distrito 17,7,Sagrada Familia,07307
-Región del Maule,9ª,5,Distrito 17,7,San Clemente,07109
-Región del Maule,9ª,5,Distrito 17,7,San Rafael,07110
-Región del Maule,9ª,5,Distrito 17,7,Talca,07101
-Región del Maule,9ª,5,Distrito 17,7,Teno,07308
-Región del Maule,9ª,5,Distrito 17,7,Vichuquén,07309
-Región del Maule,9ª,5,Distrito 18,4,Cauquenes,07201
-Región del Maule,9ª,5,Distrito 18,4,Chanco,07202
-Región del Maule,9ª,5,Distrito 18,4,Colbún,07402
-Región del Maule,9ª,5,Distrito 18,4,Linares,07401
-Región del Maule,9ª,5,Distrito 18,4,Longaví,07403
-Región del Maule,9ª,5,Distrito 18,4,Parral,07404
-Región del Maule,9ª,5,Distrito 18,4,Pelluhue,07203
-Región del Maule,9ª,5,Distrito 18,4,Retiro,07405
-Región del Maule,9ª,5,Distrito 18,4,San Javier,07406
-Región del Maule,9ª,5,Distrito 18,4,Villa Alegre,07407
-Región del Maule,9ª,5,Distrito 18,4,Yerbas Buenas,07408
-Región de Ñuble,16ª,2,Distrito 19,5,Bulnes,16102
-Región de Ñuble,16ª,2,Distrito 19,5,Chillán,16101
-Región de Ñuble,16ª,2,Distrito 19,5,Chillán Viejo,16103
-Región de Ñuble,16ª,2,Distrito 19,5,Cobquecura,16202
-Región de Ñuble,16ª,2,Distrito 19,5,Coelemu,16203
-Región de Ñuble,16ª,2,Distrito 19,5,Coihueco,16302
-Región de Ñuble,16ª,2,Distrito 19,5,El Carmen,16104
-Región de Ñuble,16ª,2,Distrito 19,5,Ninhue,16204
-Región de Ñuble,16ª,2,Distrito 19,5,Ñiquén,16303
-Región de Ñuble,16ª,2,Distrito 19,5,Pemuco,16105
-Región de Ñuble,16ª,2,Distrito 19,5,Pinto,16106
-Región de Ñuble,16ª,2,Distrito 19,5,Portezuelo,16205
-Región de Ñuble,16ª,2,Distrito 19,5,Quillón,16107
-Región de Ñuble,16ª,2,Distrito 19,5,Quirihue,16201
-Región de Ñuble,16ª,2,Distrito 19,5,Ránquil,16206
-Región de Ñuble,16ª,2,Distrito 19,5,San Carlos,16301
-Región de Ñuble,16ª,2,Distrito 19,5,San Fabián,16304
-Región de Ñuble,16ª,2,Distrito 19,5,San Ignacio,16108
-Región de Ñuble,16ª,2,Distrito 19,5,San Nicolás,16305
-Región de Ñuble,16ª,2,Distrito 19,5,Treguaco,16207
-Región de Ñuble,16ª,2,Distrito 19,5,Yungay,16109
-Región del Biobío,10ª,3,Distrito 20,8,Chiguayante,08103
-Región del Biobío,10ª,3,Distrito 20,8,Concepción,08101
-Región del Biobío,10ª,3,Distrito 20,8,Coronel,08102
-Región del Biobío,10ª,3,Distrito 20,8,Florida,08104
-Región del Biobío,10ª,3,Distrito 20,8,Hualpén,08112
-Región del Biobío,10ª,3,Distrito 20,8,Hualqui,08105
-Región del Biobío,10ª,3,Distrito 20,8,Penco,08107
-Región del Biobío,10ª,3,Distrito 20,8,San Pedro de la Paz,08108
-Región del Biobío,10ª,3,Distrito 20,8,Santa Juana,08109
-Región del Biobío,10ª,3,Distrito 20,8,Talcahuano,08110
-Región del Biobío,10ª,3,Distrito 20,8,Tomé,08111
-Región del Biobío,10ª,3,Distrito 21,5,Yumbel,08313
-Región del Biobío,10ª,3,Distrito 21,5,Cabrero,08303
-Región del Biobío,10ª,3,Distrito 21,5,Alto Biobío,08314
-Región del Biobío,10ª,3,Distrito 21,5,Antuco,08302
-Región del Biobío,10ª,3,Distrito 21,5,Arauco,08202
-Región del Biobío,10ª,3,Distrito 21,5,Cañete,08203
-Región del Biobío,10ª,3,Distrito 21,5,Contulmo,08204
-Región del Biobío,10ª,3,Distrito 21,5,Curanilahue,08205
-Región del Biobío,10ª,3,Distrito 21,5,Laja,08304
-Región del Biobío,10ª,3,Distrito 21,5,Lebu,08201
-Región del Biobío,10ª,3,Distrito 21,5,Los Alamos,08206
-Región del Biobío,10ª,3,Distrito 21,5,Los Angeles,08301
-Región del Biobío,10ª,3,Distrito 21,5,Lota,08106
-Región del Biobío,10ª,3,Distrito 21,5,Mulchén,08305
-Región del Biobío,10ª,3,Distrito 21,5,Nacimiento,08306
-Región del Biobío,10ª,3,Distrito 21,5,Negrete,08307
-Región del Biobío,10ª,3,Distrito 21,5,Quilaco,08308
-Región del Biobío,10ª,3,Distrito 21,5,Quilleco,08309
-Región del Biobío,10ª,3,Distrito 21,5,San Rosendo,08310
-Región del Biobío,10ª,3,Distrito 21,5,Santa Bárbara,08311
-Región del Biobío,10ª,3,Distrito 21,5,Tirúa,08207
-Región del Biobío,10ª,3,Distrito 21,5,Tucapel,08312
-Región de la Araucanía,11ª,5,Distrito 22,4,Angol,09201
-Región de la Araucanía,11ª,5,Distrito 22,4,Collipulli,09202
-Región de la Araucanía,11ª,5,Distrito 22,4,Curacautín,09203
-Región de la Araucanía,11ª,5,Distrito 22,4,Ercilla,09204
-Región de la Araucanía,11ª,5,Distrito 22,4,Galvarino,09106
-Región de la Araucanía,11ª,5,Distrito 22,4,Lautaro,09108
-Región de la Araucanía,11ª,5,Distrito 22,4,Lonquimay,09205
-Región de la Araucanía,11ª,5,Distrito 22,4,Los Sauces,09206
-Región de la Araucanía,11ª,5,Distrito 22,4,Lumaco,09207
-Región de la Araucanía,11ª,5,Distrito 22,4,Melipeuco,09110
-Región de la Araucanía,11ª,5,Distrito 22,4,Perquenco,09113
-Región de la Araucanía,11ª,5,Distrito 22,4,Purén,09208
-Región de la Araucanía,11ª,5,Distrito 22,4,Renaico,09209
-Región de la Araucanía,11ª,5,Distrito 22,4,Traiguén,09210
-Región de la Araucanía,11ª,5,Distrito 22,4,Victoria,09211
-Región de la Araucanía,11ª,5,Distrito 22,4,Vilcún,09119
-Región de la Araucanía,11ª,5,Distrito 23,7,Carahue,09102
-Región de la Araucanía,11ª,5,Distrito 23,7,Cholchol,09121
-Región de la Araucanía,11ª,5,Distrito 23,7,Cunco,09103
-Región de la Araucanía,11ª,5,Distrito 23,7,Curarrehue,09104
-Región de la Araucanía,11ª,5,Distrito 23,7,Freire,09105
-Región de la Araucanía,11ª,5,Distrito 23,7,Gorbea,09107
-Región de la Araucanía,11ª,5,Distrito 23,7,Loncoche,09109
-Región de la Araucanía,11ª,5,Distrito 23,7,Nueva Imperial,09111
-Región de la Araucanía,11ª,5,Distrito 23,7,Padre Las Casas,09112
-Región de la Araucanía,11ª,5,Distrito 23,7,Pitrufquén,09114
-Región de la Araucanía,11ª,5,Distrito 23,7,Pucón,09115
-Región de la Araucanía,11ª,5,Distrito 23,7,Saavedra,09116
-Región de la Araucanía,11ª,5,Distrito 23,7,Temuco,09101
-Región de la Araucanía,11ª,5,Distrito 23,7,Teodoro Schmidt,09117
-Región de la Araucanía,11ª,5,Distrito 23,7,Toltén,09118
-Región de la Araucanía,11ª,5,Distrito 23,7,Villarrica,09120
-Región de Los Ríos,12ª,3,Distrito 24,5,Corral,14102
-Región de Los Ríos,12ª,3,Distrito 24,5,Futrono,14202
-Región de Los Ríos,12ª,3,Distrito 24,5,Lago Ranco,14203
-Región de Los Ríos,12ª,3,Distrito 24,5,Lanco,14103
-Región de Los Ríos,12ª,3,Distrito 24,5,La Unión,14201
-Región de Los Ríos,12ª,3,Distrito 24,5,Los Lagos,14104
-Región de Los Ríos,12ª,3,Distrito 24,5,Máfil,14105
-Región de Los Ríos,12ª,3,Distrito 24,5,Mariquina,14106
-Región de Los Ríos,12ª,3,Distrito 24,5,Paillaco,14107
-Región de Los Ríos,12ª,3,Distrito 24,5,Panguipulli,14108
-Región de Los Ríos,12ª,3,Distrito 24,5,Río Bueno,14204
-Región de Los Ríos,12ª,3,Distrito 24,5,Valdivia,14101
-Región de Los Lagos,13ª,3,Distrito 25,4,Fresia,10104
-Región de Los Lagos,13ª,3,Distrito 25,4,Frutillar,10105
-Región de Los Lagos,13ª,3,Distrito 25,4,Llanquihue,10107
-Región de Los Lagos,13ª,3,Distrito 25,4,Los Muermos,10106
-Región de Los Lagos,13ª,3,Distrito 25,4,Osorno,10301
-Región de Los Lagos,13ª,3,Distrito 25,4,Puerto Octay,10302
-Región de Los Lagos,13ª,3,Distrito 25,4,Puerto Varas,10109
-Región de Los Lagos,13ª,3,Distrito 25,4,Purranque,10303
-Región de Los Lagos,13ª,3,Distrito 25,4,Puyehue,10304
-Región de Los Lagos,13ª,3,Distrito 25,4,Río Negro,10305
-Región de Los Lagos,13ª,3,Distrito 25,4,San Juan de la Costa,10306
-Región de Los Lagos,13ª,3,Distrito 25,4,San Pablo,10307
-Región de Los Lagos,13ª,3,Distrito 26,5,Ancud,10202
-Región de Los Lagos,13ª,3,Distrito 26,5,Calbuco,10102
-Región de Los Lagos,13ª,3,Distrito 26,5,Castro,10201
-Región de Los Lagos,13ª,3,Distrito 26,5,Chaitén,10401
-Región de Los Lagos,13ª,3,Distrito 26,5,Chonchi,10203
-Región de Los Lagos,13ª,3,Distrito 26,5,Cochamó,10103
-Región de Los Lagos,13ª,3,Distrito 26,5,Curaco de Vélez,10204
-Región de Los Lagos,13ª,3,Distrito 26,5,Dalcahue,10205
-Región de Los Lagos,13ª,3,Distrito 26,5,Futaleufú,10402
-Región de Los Lagos,13ª,3,Distrito 26,5,Hualaihué,10403
-Región de Los Lagos,13ª,3,Distrito 26,5,Maullín,10108
-Región de Los Lagos,13ª,3,Distrito 26,5,Palena,10404
-Región de Los Lagos,13ª,3,Distrito 26,5,Puerto Montt,10101
-Región de Los Lagos,13ª,3,Distrito 26,5,Puqueldón,10206
-Región de Los Lagos,13ª,3,Distrito 26,5,Queilén,10207
-Región de Los Lagos,13ª,3,Distrito 26,5,Quellón,10208
-Región de Los Lagos,13ª,3,Distrito 26,5,Quemchi,10209
-Región de Los Lagos,13ª,3,Distrito 26,5,Quinchao,10210
-Región de Aysén del General Carlos Ibáñez del Campo,14ª,2,Distrito 27,3,Aysén,11201
-Región de Aysén del General Carlos Ibáñez del Campo,14ª,2,Distrito 27,3,Chile Chico,11401
-Región de Aysén del General Carlos Ibáñez del Campo,14ª,2,Distrito 27,3,Cisnes,11202
-Región de Aysén del General Carlos Ibáñez del Campo,14ª,2,Distrito 27,3,Cochrane,11301
-Región de Aysén del General Carlos Ibáñez del Campo,14ª,2,Distrito 27,3,Coyhaique,11101
-Región de Aysén del General Carlos Ibáñez del Campo,14ª,2,Distrito 27,3,Guaitecas,11203
-Región de Aysén del General Carlos Ibáñez del Campo,14ª,2,Distrito 27,3,Lago Verde,11102
-Región de Aysén del General Carlos Ibáñez del Campo,14ª,2,Distrito 27,3,O'Higgins,11302
-Región de Aysén del General Carlos Ibáñez del Campo,14ª,2,Distrito 27,3,Río Ibáñez,11402
-Región de Aysén del General Carlos Ibáñez del Campo,14ª,2,Distrito 27,3,Tortel,11303
-Región de Magallanes y la Antártica Chilena,15ª,2,Distrito 28,3,Antártica,12201
-Región de Magallanes y la Antártica Chilena,15ª,2,Distrito 28,3,Cabo de Hornos,12201
-Región de Magallanes y la Antártica Chilena,15ª,2,Distrito 28,3,Laguna Blanca,12102
-Región de Magallanes y la Antártica Chilena,15ª,2,Distrito 28,3,Natales,12401
-Región de Magallanes y la Antártica Chilena,15ª,2,Distrito 28,3,Porvenir,12301
-Región de Magallanes y la Antártica Chilena,15ª,2,Distrito 28,3,Primavera,12302
-Región de Magallanes y la Antártica Chilena,15ª,2,Distrito 28,3,Punta Arenas,12101
-Región de Magallanes y la Antártica Chilena,15ª,2,Distrito 28,3,Río Verde,12103
-Región de Magallanes y la Antártica Chilena,15ª,2,Distrito 28,3,San Gregorio,12104
-Región de Magallanes y la Antártica Chilena,15ª,2,Distrito 28,3,Timaukel,12303
-Región de Magallanes y la Antártica Chilena,15ª,2,Distrito 28,3,Torres del Paine,12402
+id_region,region,id_circunscripcion,circunscripcion,senadores_circunscripcion,id_distrito,distrito,diputados_distrito,id_comuna,comuna,codigo_comuna_cut
+REG-15,Región de Arica y Parinacota,CIRC-01,1ª,2,DIST-01,Distrito 1,3,COM-15101,Arica,15101
+REG-15,Región de Arica y Parinacota,CIRC-01,1ª,2,DIST-01,Distrito 1,3,COM-15102,Camarones,15102
+REG-15,Región de Arica y Parinacota,CIRC-01,1ª,2,DIST-01,Distrito 1,3,COM-15202,General Lagos,15202
+REG-15,Región de Arica y Parinacota,CIRC-01,1ª,2,DIST-01,Distrito 1,3,COM-15201,Putre,15201
+REG-01,Región de Tarapacá,CIRC-02,2ª,2,DIST-02,Distrito 2,3,COM-01107,Alto Hospicio,01107
+REG-01,Región de Tarapacá,CIRC-02,2ª,2,DIST-02,Distrito 2,3,COM-01402,Camiña,01402
+REG-01,Región de Tarapacá,CIRC-02,2ª,2,DIST-02,Distrito 2,3,COM-01403,Colchane,01403
+REG-01,Región de Tarapacá,CIRC-02,2ª,2,DIST-02,Distrito 2,3,COM-01404,Huara,01404
+REG-01,Región de Tarapacá,CIRC-02,2ª,2,DIST-02,Distrito 2,3,COM-01101,Iquique,01101
+REG-01,Región de Tarapacá,CIRC-02,2ª,2,DIST-02,Distrito 2,3,COM-01405,Pica,01405
+REG-01,Región de Tarapacá,CIRC-02,2ª,2,DIST-02,Distrito 2,3,COM-01401,Pozo Almonte,01401
+REG-02,Región de Antofagasta,CIRC-03,3ª,3,DIST-03,Distrito 3,5,COM-02101,Antofagasta,02101
+REG-02,Región de Antofagasta,CIRC-03,3ª,3,DIST-03,Distrito 3,5,COM-02201,Calama,02201
+REG-02,Región de Antofagasta,CIRC-03,3ª,3,DIST-03,Distrito 3,5,COM-02302,María Elena,02302
+REG-02,Región de Antofagasta,CIRC-03,3ª,3,DIST-03,Distrito 3,5,COM-02102,Mejillones,02102
+REG-02,Región de Antofagasta,CIRC-03,3ª,3,DIST-03,Distrito 3,5,COM-02202,Ollagüe,02202
+REG-02,Región de Antofagasta,CIRC-03,3ª,3,DIST-03,Distrito 3,5,COM-02203,San Pedro de Atacama,02203
+REG-02,Región de Antofagasta,CIRC-03,3ª,3,DIST-03,Distrito 3,5,COM-02103,Sierra Gorda,02103
+REG-02,Región de Antofagasta,CIRC-03,3ª,3,DIST-03,Distrito 3,5,COM-02104,Taltal,02104
+REG-02,Región de Antofagasta,CIRC-03,3ª,3,DIST-03,Distrito 3,5,COM-02301,Tocopilla,02301
+REG-03,Región de Atacama,CIRC-04,4ª,2,DIST-04,Distrito 4,5,COM-03302,Alto del Carmen,03302
+REG-03,Región de Atacama,CIRC-04,4ª,2,DIST-04,Distrito 4,5,COM-03102,Caldera,03102
+REG-03,Región de Atacama,CIRC-04,4ª,2,DIST-04,Distrito 4,5,COM-03201,Chañaral,03201
+REG-03,Región de Atacama,CIRC-04,4ª,2,DIST-04,Distrito 4,5,COM-03101,Copiapó,03101
+REG-03,Región de Atacama,CIRC-04,4ª,2,DIST-04,Distrito 4,5,COM-03202,Diego de Almagro,03202
+REG-03,Región de Atacama,CIRC-04,4ª,2,DIST-04,Distrito 4,5,COM-03303,Freirina,03303
+REG-03,Región de Atacama,CIRC-04,4ª,2,DIST-04,Distrito 4,5,COM-03304,Huasco,03304
+REG-03,Región de Atacama,CIRC-04,4ª,2,DIST-04,Distrito 4,5,COM-03103,Tierra Amarilla,03103
+REG-03,Región de Atacama,CIRC-04,4ª,2,DIST-04,Distrito 4,5,COM-03301,Vallenar,03301
+REG-04,Región de Coquimbo,CIRC-05,5ª,3,DIST-05,Distrito 5,7,COM-04103,Andacollo,04103
+REG-04,Región de Coquimbo,CIRC-05,5ª,3,DIST-05,Distrito 5,7,COM-04202,Canela,04202
+REG-04,Región de Coquimbo,CIRC-05,5ª,3,DIST-05,Distrito 5,7,COM-04302,Combarbalá,04302
+REG-04,Región de Coquimbo,CIRC-05,5ª,3,DIST-05,Distrito 5,7,COM-04102,Coquimbo,04102
+REG-04,Región de Coquimbo,CIRC-05,5ª,3,DIST-05,Distrito 5,7,COM-04201,Illapel,04201
+REG-04,Región de Coquimbo,CIRC-05,5ª,3,DIST-05,Distrito 5,7,COM-04104,La Higuera,04104
+REG-04,Región de Coquimbo,CIRC-05,5ª,3,DIST-05,Distrito 5,7,COM-04101,La Serena,04101
+REG-04,Región de Coquimbo,CIRC-05,5ª,3,DIST-05,Distrito 5,7,COM-04203,Los Vilos,04203
+REG-04,Región de Coquimbo,CIRC-05,5ª,3,DIST-05,Distrito 5,7,COM-04303,Monte Patria,04303
+REG-04,Región de Coquimbo,CIRC-05,5ª,3,DIST-05,Distrito 5,7,COM-04301,Ovalle,04301
+REG-04,Región de Coquimbo,CIRC-05,5ª,3,DIST-05,Distrito 5,7,COM-04105,Paihuano,04105
+REG-04,Región de Coquimbo,CIRC-05,5ª,3,DIST-05,Distrito 5,7,COM-04304,Punitaqui,04304
+REG-04,Región de Coquimbo,CIRC-05,5ª,3,DIST-05,Distrito 5,7,COM-04305,Río Hurtado,04305
+REG-04,Región de Coquimbo,CIRC-05,5ª,3,DIST-05,Distrito 5,7,COM-04204,Salamanca,04204
+REG-04,Región de Coquimbo,CIRC-05,5ª,3,DIST-05,Distrito 5,7,COM-04106,Vicuña,04106
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-06,Distrito 6,8,COM-05402,Cabildo,05402
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-06,Distrito 6,8,COM-05302,Calle Larga,05302
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-06,Distrito 6,8,COM-05702,Catemu,05702
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-06,Distrito 6,8,COM-05503,Hijuelas,05503
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-06,Distrito 6,8,COM-05502,La Calera,05502
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-06,Distrito 6,8,COM-05504,La Cruz,05504
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-06,Distrito 6,8,COM-05401,La Ligua,05401
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-06,Distrito 6,8,COM-05802,Limache,05802
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-06,Distrito 6,8,COM-05703,Llaillay,05703
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-06,Distrito 6,8,COM-05301,Los Andes,05301
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-06,Distrito 6,8,COM-05506,Nogales,05506
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-06,Distrito 6,8,COM-05803,Olmué,05803
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-06,Distrito 6,8,COM-05704,Panquehue,05704
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-06,Distrito 6,8,COM-05403,Papudo,05403
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-06,Distrito 6,8,COM-05404,Petorca,05404
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-06,Distrito 6,8,COM-05105,Puchuncaví,05105
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-06,Distrito 6,8,COM-05705,Putaendo,05705
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-06,Distrito 6,8,COM-05501,Quillota,05501
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-06,Distrito 6,8,COM-05801,Quilpué,05801
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-06,Distrito 6,8,COM-05107,Quintero,05107
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-06,Distrito 6,8,COM-05303,Rinconada,05303
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-06,Distrito 6,8,COM-05304,San Esteban,05304
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-06,Distrito 6,8,COM-05701,San Felipe,05701
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-06,Distrito 6,8,COM-05706,Santa María,05706
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-06,Distrito 6,8,COM-05804,Villa Alemana,05804
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-06,Distrito 6,8,COM-05405,Zapallar,05405
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-07,Distrito 7,8,COM-05103,Concón,05103
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-07,Distrito 7,8,COM-05201,Isla de Pascua,05201
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-07,Distrito 7,8,COM-05104,Juan Fernández,05104
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-07,Distrito 7,8,COM-05101,Valparaíso,05101
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-07,Distrito 7,8,COM-05109,Viña del Mar,05109
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-07,Distrito 7,8,COM-05602,Algarrobo,05602
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-07,Distrito 7,8,COM-05603,Cartagena,05603
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-07,Distrito 7,8,COM-05102,Casablanca,05102
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-07,Distrito 7,8,COM-05604,El Quisco,05604
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-07,Distrito 7,8,COM-05605,El Tabo,05605
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-07,Distrito 7,8,COM-05601,San Antonio,05601
+REG-05,Región de Valparaíso,CIRC-06,6ª,5,DIST-07,Distrito 7,8,COM-05606,Santo Domingo,05606
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-08,Distrito 8,8,COM-13102,Cerrillos,13102
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-08,Distrito 8,8,COM-13301,Colina,13301
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-08,Distrito 8,8,COM-13106,Estación Central,13106
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-08,Distrito 8,8,COM-13302,Lampa,13302
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-08,Distrito 8,8,COM-13119,Maipú,13119
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-08,Distrito 8,8,COM-13124,Pudahuel,13124
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-08,Distrito 8,8,COM-13125,Quilicura,13125
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-08,Distrito 8,8,COM-13303,Tiltil,13303
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-09,Distrito 9,7,COM-13103,Cerro Navia,13103
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-09,Distrito 9,7,COM-13104,Conchalí,13104
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-09,Distrito 9,7,COM-13107,Huechuraba,13107
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-09,Distrito 9,7,COM-13108,Independencia,13108
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-09,Distrito 9,7,COM-13117,Lo Prado,13117
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-09,Distrito 9,7,COM-13126,Quinta Normal,13126
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-09,Distrito 9,7,COM-13127,Recoleta,13127
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-09,Distrito 9,7,COM-13128,Renca,13128
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-10,Distrito 10,8,COM-13111,La Granja,13111
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-10,Distrito 10,8,COM-13118,Macul,13118
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-10,Distrito 10,8,COM-13120,Ñuñoa,13120
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-10,Distrito 10,8,COM-13123,Providencia,13123
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-10,Distrito 10,8,COM-13129,San Joaquín,13129
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-10,Distrito 10,8,COM-13101,Santiago,13101
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-11,Distrito 11,6,COM-13113,La Reina,13113
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-11,Distrito 11,6,COM-13114,Las Condes,13114
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-11,Distrito 11,6,COM-13115,Lo Barnechea,13115
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-11,Distrito 11,6,COM-13122,Peñalolén,13122
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-11,Distrito 11,6,COM-13132,Vitacura,13132
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-12,Distrito 12,7,COM-13110,La Florida,13110
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-12,Distrito 12,7,COM-13112,La Pintana,13112
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-12,Distrito 12,7,COM-13202,Pirque,13202
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-12,Distrito 12,7,COM-13201,Puente Alto,13201
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-12,Distrito 12,7,COM-13203,San José de Maipo,13203
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-13,Distrito 13,5,COM-13105,El Bosque,13105
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-13,Distrito 13,5,COM-13109,La Cisterna,13109
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-13,Distrito 13,5,COM-13116,Lo Espejo,13116
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-13,Distrito 13,5,COM-13121,Pedro Aguirre Cerda,13121
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-13,Distrito 13,5,COM-13130,San Miguel,13130
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-13,Distrito 13,5,COM-13131,San Ramón,13131
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-14,Distrito 14,6,COM-13502,Alhué,13502
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-14,Distrito 14,6,COM-13402,Buin,13402
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-14,Distrito 14,6,COM-13403,Calera de Tango,13403
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-14,Distrito 14,6,COM-13503,Curacaví,13503
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-14,Distrito 14,6,COM-13602,El Monte,13602
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-14,Distrito 14,6,COM-13603,Isla de Maipo,13603
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-14,Distrito 14,6,COM-13504,María Pinto,13504
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-14,Distrito 14,6,COM-13501,Melipilla,13501
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-14,Distrito 14,6,COM-13604,Padre Hurtado,13604
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-14,Distrito 14,6,COM-13404,Paine,13404
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-14,Distrito 14,6,COM-13605,Peñaflor,13605
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-14,Distrito 14,6,COM-13401,San Bernardo,13401
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-14,Distrito 14,6,COM-13505,San Pedro,13505
+REG-13,Región Metropolitana de Santiago,CIRC-07,7ª,5,DIST-14,Distrito 14,6,COM-13601,Talagante,13601
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-15,Distrito 15,5,COM-06102,Codegua,06102
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-15,Distrito 15,5,COM-06103,Coinco,06103
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-15,Distrito 15,5,COM-06104,Coltauco,06104
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-15,Distrito 15,5,COM-06105,Doñihue,06105
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-15,Distrito 15,5,COM-06106,Graneros,06106
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-15,Distrito 15,5,COM-06108,Machalí,06108
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-15,Distrito 15,5,COM-06109,Malloa,06109
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-15,Distrito 15,5,COM-06110,Mostazal,06110
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-15,Distrito 15,5,COM-06111,Olivar,06111
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-15,Distrito 15,5,COM-06114,Quinta de Tilcoco,06114
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-15,Distrito 15,5,COM-06101,Rancagua,06101
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-15,Distrito 15,5,COM-06115,Rengo,06115
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-15,Distrito 15,5,COM-06116,Requínoa,06116
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-16,Distrito 16,4,COM-06302,Chépica,06302
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-16,Distrito 16,4,COM-06303,Chimbarongo,06303
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-16,Distrito 16,4,COM-06202,La Estrella,06202
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-16,Distrito 16,4,COM-06107,Las Cabras,06107
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-16,Distrito 16,4,COM-06203,Litueche,06203
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-16,Distrito 16,4,COM-06304,Lolol,06304
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-16,Distrito 16,4,COM-06204,Marchihue,06204
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-16,Distrito 16,4,COM-06305,Nancagua,06305
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-16,Distrito 16,4,COM-06205,Navidad,06205
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-16,Distrito 16,4,COM-06306,Palmilla,06306
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-16,Distrito 16,4,COM-06206,Paredones,06206
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-16,Distrito 16,4,COM-06307,Peralillo,06307
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-16,Distrito 16,4,COM-06112,Peumo,06112
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-16,Distrito 16,4,COM-06113,Pichidegua,06113
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-16,Distrito 16,4,COM-06201,Pichilemu,06201
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-16,Distrito 16,4,COM-06308,Placilla,06308
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-16,Distrito 16,4,COM-06309,Pumanque,06309
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-16,Distrito 16,4,COM-06301,San Fernando,06301
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-16,Distrito 16,4,COM-06310,Santa Cruz,06310
+REG-06,Región del Libertador General Bernardo O'Higgins,CIRC-08,8ª,3,DIST-16,Distrito 16,4,COM-06117,San Vicente,06117
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-17,Distrito 17,7,COM-07102,Constitución,07102
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-17,Distrito 17,7,COM-07103,Curepto,07103
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-17,Distrito 17,7,COM-07301,Curicó,07301
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-17,Distrito 17,7,COM-07104,Empedrado,07104
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-17,Distrito 17,7,COM-07302,Hualañé,07302
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-17,Distrito 17,7,COM-07303,Licantén,07303
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-17,Distrito 17,7,COM-07105,Maule,07105
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-17,Distrito 17,7,COM-07304,Molina,07304
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-17,Distrito 17,7,COM-07106,Pelarco,07106
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-17,Distrito 17,7,COM-07107,Pencahue,07107
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-17,Distrito 17,7,COM-07305,Rauco,07305
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-17,Distrito 17,7,COM-07108,Río Claro,07108
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-17,Distrito 17,7,COM-07306,Romeral,07306
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-17,Distrito 17,7,COM-07307,Sagrada Familia,07307
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-17,Distrito 17,7,COM-07109,San Clemente,07109
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-17,Distrito 17,7,COM-07110,San Rafael,07110
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-17,Distrito 17,7,COM-07101,Talca,07101
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-17,Distrito 17,7,COM-07308,Teno,07308
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-17,Distrito 17,7,COM-07309,Vichuquén,07309
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-18,Distrito 18,4,COM-07201,Cauquenes,07201
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-18,Distrito 18,4,COM-07202,Chanco,07202
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-18,Distrito 18,4,COM-07402,Colbún,07402
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-18,Distrito 18,4,COM-07401,Linares,07401
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-18,Distrito 18,4,COM-07403,Longaví,07403
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-18,Distrito 18,4,COM-07404,Parral,07404
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-18,Distrito 18,4,COM-07203,Pelluhue,07203
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-18,Distrito 18,4,COM-07405,Retiro,07405
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-18,Distrito 18,4,COM-07406,San Javier,07406
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-18,Distrito 18,4,COM-07407,Villa Alegre,07407
+REG-07,Región del Maule,CIRC-09,9ª,5,DIST-18,Distrito 18,4,COM-07408,Yerbas Buenas,07408
+REG-16,Región de Ñuble,CIRC-16,16ª,2,DIST-19,Distrito 19,5,COM-16102,Bulnes,16102
+REG-16,Región de Ñuble,CIRC-16,16ª,2,DIST-19,Distrito 19,5,COM-16101,Chillán,16101
+REG-16,Región de Ñuble,CIRC-16,16ª,2,DIST-19,Distrito 19,5,COM-16103,Chillán Viejo,16103
+REG-16,Región de Ñuble,CIRC-16,16ª,2,DIST-19,Distrito 19,5,COM-16202,Cobquecura,16202
+REG-16,Región de Ñuble,CIRC-16,16ª,2,DIST-19,Distrito 19,5,COM-16203,Coelemu,16203
+REG-16,Región de Ñuble,CIRC-16,16ª,2,DIST-19,Distrito 19,5,COM-16302,Coihueco,16302
+REG-16,Región de Ñuble,CIRC-16,16ª,2,DIST-19,Distrito 19,5,COM-16104,El Carmen,16104
+REG-16,Región de Ñuble,CIRC-16,16ª,2,DIST-19,Distrito 19,5,COM-16204,Ninhue,16204
+REG-16,Región de Ñuble,CIRC-16,16ª,2,DIST-19,Distrito 19,5,COM-16303,Ñiquén,16303
+REG-16,Región de Ñuble,CIRC-16,16ª,2,DIST-19,Distrito 19,5,COM-16105,Pemuco,16105
+REG-16,Región de Ñuble,CIRC-16,16ª,2,DIST-19,Distrito 19,5,COM-16106,Pinto,16106
+REG-16,Región de Ñuble,CIRC-16,16ª,2,DIST-19,Distrito 19,5,COM-16205,Portezuelo,16205
+REG-16,Región de Ñuble,CIRC-16,16ª,2,DIST-19,Distrito 19,5,COM-16107,Quillón,16107
+REG-16,Región de Ñuble,CIRC-16,16ª,2,DIST-19,Distrito 19,5,COM-16201,Quirihue,16201
+REG-16,Región de Ñuble,CIRC-16,16ª,2,DIST-19,Distrito 19,5,COM-16206,Ránquil,16206
+REG-16,Región de Ñuble,CIRC-16,16ª,2,DIST-19,Distrito 19,5,COM-16301,San Carlos,16301
+REG-16,Región de Ñuble,CIRC-16,16ª,2,DIST-19,Distrito 19,5,COM-16304,San Fabián,16304
+REG-16,Región de Ñuble,CIRC-16,16ª,2,DIST-19,Distrito 19,5,COM-16108,San Ignacio,16108
+REG-16,Región de Ñuble,CIRC-16,16ª,2,DIST-19,Distrito 19,5,COM-16305,San Nicolás,16305
+REG-16,Región de Ñuble,CIRC-16,16ª,2,DIST-19,Distrito 19,5,COM-16207,Treguaco,16207
+REG-16,Región de Ñuble,CIRC-16,16ª,2,DIST-19,Distrito 19,5,COM-16109,Yungay,16109
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-20,Distrito 20,8,COM-08103,Chiguayante,08103
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-20,Distrito 20,8,COM-08101,Concepción,08101
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-20,Distrito 20,8,COM-08102,Coronel,08102
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-20,Distrito 20,8,COM-08104,Florida,08104
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-20,Distrito 20,8,COM-08112,Hualpén,08112
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-20,Distrito 20,8,COM-08105,Hualqui,08105
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-20,Distrito 20,8,COM-08107,Penco,08107
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-20,Distrito 20,8,COM-08108,San Pedro de la Paz,08108
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-20,Distrito 20,8,COM-08109,Santa Juana,08109
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-20,Distrito 20,8,COM-08110,Talcahuano,08110
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-20,Distrito 20,8,COM-08111,Tomé,08111
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-21,Distrito 21,5,COM-08313,Yumbel,08313
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-21,Distrito 21,5,COM-08303,Cabrero,08303
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-21,Distrito 21,5,COM-08314,Alto Biobío,08314
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-21,Distrito 21,5,COM-08302,Antuco,08302
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-21,Distrito 21,5,COM-08202,Arauco,08202
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-21,Distrito 21,5,COM-08203,Cañete,08203
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-21,Distrito 21,5,COM-08204,Contulmo,08204
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-21,Distrito 21,5,COM-08205,Curanilahue,08205
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-21,Distrito 21,5,COM-08304,Laja,08304
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-21,Distrito 21,5,COM-08201,Lebu,08201
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-21,Distrito 21,5,COM-08206,Los Alamos,08206
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-21,Distrito 21,5,COM-08301,Los Angeles,08301
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-21,Distrito 21,5,COM-08106,Lota,08106
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-21,Distrito 21,5,COM-08305,Mulchén,08305
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-21,Distrito 21,5,COM-08306,Nacimiento,08306
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-21,Distrito 21,5,COM-08307,Negrete,08307
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-21,Distrito 21,5,COM-08308,Quilaco,08308
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-21,Distrito 21,5,COM-08309,Quilleco,08309
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-21,Distrito 21,5,COM-08310,San Rosendo,08310
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-21,Distrito 21,5,COM-08311,Santa Bárbara,08311
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-21,Distrito 21,5,COM-08207,Tirúa,08207
+REG-08,Región del Biobío,CIRC-10,10ª,3,DIST-21,Distrito 21,5,COM-08312,Tucapel,08312
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-22,Distrito 22,4,COM-09201,Angol,09201
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-22,Distrito 22,4,COM-09202,Collipulli,09202
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-22,Distrito 22,4,COM-09203,Curacautín,09203
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-22,Distrito 22,4,COM-09204,Ercilla,09204
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-22,Distrito 22,4,COM-09106,Galvarino,09106
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-22,Distrito 22,4,COM-09108,Lautaro,09108
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-22,Distrito 22,4,COM-09205,Lonquimay,09205
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-22,Distrito 22,4,COM-09206,Los Sauces,09206
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-22,Distrito 22,4,COM-09207,Lumaco,09207
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-22,Distrito 22,4,COM-09110,Melipeuco,09110
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-22,Distrito 22,4,COM-09113,Perquenco,09113
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-22,Distrito 22,4,COM-09208,Purén,09208
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-22,Distrito 22,4,COM-09209,Renaico,09209
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-22,Distrito 22,4,COM-09210,Traiguén,09210
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-22,Distrito 22,4,COM-09211,Victoria,09211
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-22,Distrito 22,4,COM-09119,Vilcún,09119
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-23,Distrito 23,7,COM-09102,Carahue,09102
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-23,Distrito 23,7,COM-09121,Cholchol,09121
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-23,Distrito 23,7,COM-09103,Cunco,09103
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-23,Distrito 23,7,COM-09104,Curarrehue,09104
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-23,Distrito 23,7,COM-09105,Freire,09105
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-23,Distrito 23,7,COM-09107,Gorbea,09107
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-23,Distrito 23,7,COM-09109,Loncoche,09109
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-23,Distrito 23,7,COM-09111,Nueva Imperial,09111
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-23,Distrito 23,7,COM-09112,Padre Las Casas,09112
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-23,Distrito 23,7,COM-09114,Pitrufquén,09114
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-23,Distrito 23,7,COM-09115,Pucón,09115
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-23,Distrito 23,7,COM-09116,Saavedra,09116
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-23,Distrito 23,7,COM-09101,Temuco,09101
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-23,Distrito 23,7,COM-09117,Teodoro Schmidt,09117
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-23,Distrito 23,7,COM-09118,Toltén,09118
+REG-09,Región de la Araucanía,CIRC-11,11ª,5,DIST-23,Distrito 23,7,COM-09120,Villarrica,09120
+REG-14,Región de Los Ríos,CIRC-12,12ª,3,DIST-24,Distrito 24,5,COM-14102,Corral,14102
+REG-14,Región de Los Ríos,CIRC-12,12ª,3,DIST-24,Distrito 24,5,COM-14202,Futrono,14202
+REG-14,Región de Los Ríos,CIRC-12,12ª,3,DIST-24,Distrito 24,5,COM-14203,Lago Ranco,14203
+REG-14,Región de Los Ríos,CIRC-12,12ª,3,DIST-24,Distrito 24,5,COM-14103,Lanco,14103
+REG-14,Región de Los Ríos,CIRC-12,12ª,3,DIST-24,Distrito 24,5,COM-14201,La Unión,14201
+REG-14,Región de Los Ríos,CIRC-12,12ª,3,DIST-24,Distrito 24,5,COM-14104,Los Lagos,14104
+REG-14,Región de Los Ríos,CIRC-12,12ª,3,DIST-24,Distrito 24,5,COM-14105,Máfil,14105
+REG-14,Región de Los Ríos,CIRC-12,12ª,3,DIST-24,Distrito 24,5,COM-14106,Mariquina,14106
+REG-14,Región de Los Ríos,CIRC-12,12ª,3,DIST-24,Distrito 24,5,COM-14107,Paillaco,14107
+REG-14,Región de Los Ríos,CIRC-12,12ª,3,DIST-24,Distrito 24,5,COM-14108,Panguipulli,14108
+REG-14,Región de Los Ríos,CIRC-12,12ª,3,DIST-24,Distrito 24,5,COM-14204,Río Bueno,14204
+REG-14,Región de Los Ríos,CIRC-12,12ª,3,DIST-24,Distrito 24,5,COM-14101,Valdivia,14101
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-25,Distrito 25,4,COM-10104,Fresia,10104
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-25,Distrito 25,4,COM-10105,Frutillar,10105
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-25,Distrito 25,4,COM-10107,Llanquihue,10107
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-25,Distrito 25,4,COM-10106,Los Muermos,10106
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-25,Distrito 25,4,COM-10301,Osorno,10301
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-25,Distrito 25,4,COM-10302,Puerto Octay,10302
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-25,Distrito 25,4,COM-10109,Puerto Varas,10109
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-25,Distrito 25,4,COM-10303,Purranque,10303
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-25,Distrito 25,4,COM-10304,Puyehue,10304
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-25,Distrito 25,4,COM-10305,Río Negro,10305
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-25,Distrito 25,4,COM-10306,San Juan de la Costa,10306
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-25,Distrito 25,4,COM-10307,San Pablo,10307
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-26,Distrito 26,5,COM-10202,Ancud,10202
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-26,Distrito 26,5,COM-10102,Calbuco,10102
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-26,Distrito 26,5,COM-10201,Castro,10201
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-26,Distrito 26,5,COM-10401,Chaitén,10401
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-26,Distrito 26,5,COM-10203,Chonchi,10203
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-26,Distrito 26,5,COM-10103,Cochamó,10103
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-26,Distrito 26,5,COM-10204,Curaco de Vélez,10204
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-26,Distrito 26,5,COM-10205,Dalcahue,10205
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-26,Distrito 26,5,COM-10402,Futaleufú,10402
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-26,Distrito 26,5,COM-10403,Hualaihué,10403
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-26,Distrito 26,5,COM-10108,Maullín,10108
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-26,Distrito 26,5,COM-10404,Palena,10404
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-26,Distrito 26,5,COM-10101,Puerto Montt,10101
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-26,Distrito 26,5,COM-10206,Puqueldón,10206
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-26,Distrito 26,5,COM-10207,Queilén,10207
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-26,Distrito 26,5,COM-10208,Quellón,10208
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-26,Distrito 26,5,COM-10209,Quemchi,10209
+REG-10,Región de Los Lagos,CIRC-13,13ª,3,DIST-26,Distrito 26,5,COM-10210,Quinchao,10210
+REG-11,Región de Aysén del General Carlos Ibáñez del Campo,CIRC-14,14ª,2,DIST-27,Distrito 27,3,COM-11201,Aysén,11201
+REG-11,Región de Aysén del General Carlos Ibáñez del Campo,CIRC-14,14ª,2,DIST-27,Distrito 27,3,COM-11401,Chile Chico,11401
+REG-11,Región de Aysén del General Carlos Ibáñez del Campo,CIRC-14,14ª,2,DIST-27,Distrito 27,3,COM-11202,Cisnes,11202
+REG-11,Región de Aysén del General Carlos Ibáñez del Campo,CIRC-14,14ª,2,DIST-27,Distrito 27,3,COM-11301,Cochrane,11301
+REG-11,Región de Aysén del General Carlos Ibáñez del Campo,CIRC-14,14ª,2,DIST-27,Distrito 27,3,COM-11101,Coyhaique,11101
+REG-11,Región de Aysén del General Carlos Ibáñez del Campo,CIRC-14,14ª,2,DIST-27,Distrito 27,3,COM-11203,Guaitecas,11203
+REG-11,Región de Aysén del General Carlos Ibáñez del Campo,CIRC-14,14ª,2,DIST-27,Distrito 27,3,COM-11102,Lago Verde,11102
+REG-11,Región de Aysén del General Carlos Ibáñez del Campo,CIRC-14,14ª,2,DIST-27,Distrito 27,3,COM-11302,O'Higgins,11302
+REG-11,Región de Aysén del General Carlos Ibáñez del Campo,CIRC-14,14ª,2,DIST-27,Distrito 27,3,COM-11402,Río Ibáñez,11402
+REG-11,Región de Aysén del General Carlos Ibáñez del Campo,CIRC-14,14ª,2,DIST-27,Distrito 27,3,COM-11303,Tortel,11303
+REG-12,Región de Magallanes y la Antártica Chilena,CIRC-15,15ª,2,DIST-28,Distrito 28,3,COM-12202,Antártica,12202
+REG-12,Región de Magallanes y la Antártica Chilena,CIRC-15,15ª,2,DIST-28,Distrito 28,3,COM-12201,Cabo de Hornos,12201
+REG-12,Región de Magallanes y la Antártica Chilena,CIRC-15,15ª,2,DIST-28,Distrito 28,3,COM-12102,Laguna Blanca,12102
+REG-12,Región de Magallanes y la Antártica Chilena,CIRC-15,15ª,2,DIST-28,Distrito 28,3,COM-12401,Natales,12401
+REG-12,Región de Magallanes y la Antártica Chilena,CIRC-15,15ª,2,DIST-28,Distrito 28,3,COM-12301,Porvenir,12301
+REG-12,Región de Magallanes y la Antártica Chilena,CIRC-15,15ª,2,DIST-28,Distrito 28,3,COM-12302,Primavera,12302
+REG-12,Región de Magallanes y la Antártica Chilena,CIRC-15,15ª,2,DIST-28,Distrito 28,3,COM-12101,Punta Arenas,12101
+REG-12,Región de Magallanes y la Antártica Chilena,CIRC-15,15ª,2,DIST-28,Distrito 28,3,COM-12103,Río Verde,12103
+REG-12,Región de Magallanes y la Antártica Chilena,CIRC-15,15ª,2,DIST-28,Distrito 28,3,COM-12104,San Gregorio,12104
+REG-12,Región de Magallanes y la Antártica Chilena,CIRC-15,15ª,2,DIST-28,Distrito 28,3,COM-12303,Timaukel,12303
+REG-12,Región de Magallanes y la Antártica Chilena,CIRC-15,15ª,2,DIST-28,Distrito 28,3,COM-12402,Torres del Paine,12402

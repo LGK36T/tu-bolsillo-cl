@@ -1,0 +1,17 @@
+id_region,codigo_cut_region,nombre_region,id_circunscripcion
+REG-01,01,Región de Tarapacá,CIRC-02
+REG-02,02,Región de Antofagasta,CIRC-03
+REG-03,03,Región de Atacama,CIRC-04
+REG-04,04,Región de Coquimbo,CIRC-05
+REG-05,05,Región de Valparaíso,CIRC-06
+REG-06,06,Región del Libertador General Bernardo O'Higgins,CIRC-08
+REG-07,07,Región del Maule,CIRC-09
+REG-08,08,Región del Biobío,CIRC-10
+REG-09,09,Región de la Araucanía,CIRC-11
+REG-10,10,Región de Los Lagos,CIRC-13
+REG-11,11,Región de Aysén del General Carlos Ibáñez del Campo,CIRC-14
+REG-12,12,Región de Magallanes y la Antártica Chilena,CIRC-15
+REG-13,13,Región Metropolitana de Santiago,CIRC-07
+REG-14,14,Región de Los Ríos,CIRC-12
+REG-15,15,Región de Arica y Parinacota,CIRC-01
+REG-16,16,Región de Ñuble,CIRC-16

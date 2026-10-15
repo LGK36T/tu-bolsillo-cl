@@ -1,0 +1,54 @@
+cargo,ano,periodo_detalle,monto_bruto_mensual_clp,monto_liquido_aproximado_clp,base_legal_y_normativa,organismo_pagador_o_regulador,notas
+Presidente de la República,2018,Anual,9680000,6800000,Escala Única de Sueldos (DL 249 / Ley 19.863),Presidencia de la República,Incluye asignación de dirección superior
+Presidente de la República,2019,Anual,9900000,6950000,Escala Única de Sueldos (DL 249 / Ley 19.863),Presidencia de la República,Incluye asignación de dirección superior
+Presidente de la República,2020,Anual,10150000,7100000,Escala Única de Sueldos (DL 249 / Ley 19.863),Presidencia de la República,No afecto a la rebaja del 25% de la CADP
+Presidente de la República,2021,Anual,10150000,7100000,Escala Única de Sueldos (DL 249 / Ley 19.863),Presidencia de la República,Sin variación nominal
+Presidente de la República,2022,Anual,8920000,6300000,Decreto Presidencial (tope autoimpuesto) / EUS,Presidencia de la República,Ajuste administrativo de tope salarial
+Presidente de la República,2023,Anual,9100000,6450000,Escala Única de Sueldos / Reajuste Sector Público,Presidencia de la República,Reajuste general del sector público
+Presidente de la República,2024,Anual,9350000,6600000,Escala Única de Sueldos / Reajuste Sector Público,Presidencia de la República,Reajuste general del sector público
+Presidente de la República,2025,Anual,9650000,6800000,Escala Única de Sueldos / Reajuste Sector Público,Presidencia de la República,Reajuste proyectado/vigente
+Presidente de la República,2026,Anual,9950000,7000000,Escala Única de Sueldos / Comisión de Remuneraciones,Presidencia de la República,Marco regulado Comisión Art. 38 bis CPR
+Ministro de Estado,2018,Anual,9349851,6600000,DL 249 / Ley 19.863 Art. 8,Ministerios respectivos,Equiparado a dieta parlamentaria previa
+Ministro de Estado,2019,Anual,9349851,6600000,DL 249 / Ley 19.863 Art. 8,Ministerios respectivos,Equiparado a dieta parlamentaria previa
+Ministro de Estado,2020,Ene-Jul,9349851,6600000,DL 249 / Ley 19.863 Art. 8,Ministerios respectivos,Periodo previo a dictamen CADP
+Ministro de Estado,2020,Ago-Dic,7012390,5200000,Ley 21.233 / Resolución CADP 2020,Ministerios respectivos,Rebaja del 25% dictada por CADP
+Ministro de Estado,2021,Anual,7012390,5200000,Ley 21.233 / Resolución CADP 2020,Ministerios respectivos,Congelamiento de dietas altas
+Ministro de Estado,2022,Anual,7012390,5200000,Ley 21.233 / Resolución CADP 2020,Ministerios respectivos,Congelamiento de dietas altas
+Ministro de Estado,2023,Anual,7348983,5450000,Ley de Reajuste Sector Público / CADP,Ministerios respectivos,Ajuste indexado por inflación
+Ministro de Estado,2024,Anual,7348983,5450000,Ley de Reajuste Sector Público / CADP,Ministerios respectivos,Monto base vigente
+Ministro de Estado,2025,Anual,7620000,5650000,Ley de Reajuste Sector Público,Ministerios respectivos,Reajuste general sector público
+Ministro de Estado,2026,Anual,7890000,5850000,Comisión Técnica de Remuneraciones (Art. 38 bis CPR),Ministerios respectivos,Fijación autónoma por comisión técnica
+Subsecretario de Estado,2018,Anual,8600000,6100000,DL 249 / Ley 19.863 Art. 8,Ministerios respectivos,Grado 1C Escala Única de Sueldos
+Subsecretario de Estado,2019,Anual,8600000,6100000,DL 249 / Ley 19.863 Art. 8,Ministerios respectivos,Grado 1C Escala Única de Sueldos
+Subsecretario de Estado,2020,Ago-Dic,6750000,5000000,Ley 21.233 / CADP,Ministerios respectivos,Rebaja transitoria aplicada por CADP
+Subsecretario de Estado,2024,Anual,7080000,5250000,Ley de Reajuste Sector Público,Ministerios respectivos,Monto regularizado
+Diputado de la República,2018,Anual,9349851,6600000,Constitución Política Art. 62,Cámara de Diputadas y Diputados,Equiparado a Ministro de Estado
+Diputado de la República,2019,Anual,9349851,6600000,Constitución Política Art. 62,Cámara de Diputadas y Diputados,Equiparado a Ministro de Estado
+Diputado de la República,2020,Ene-Jul,9349851,6600000,Constitución Política Art. 62,Cámara de Diputadas y Diputados,Pre rebaja CADP
+Diputado de la República,2020,Ago-Dic,7012388,5200000,Ley 21.233 / Resolución CADP 2020,Cámara de Diputadas y Diputados,Rebaja transitoria del 25%
+Diputado de la República,2021,Anual,7012388,5200000,Ley 21.233 / Resolución CADP 2020,Cámara de Diputadas y Diputados,Dieta congelada
+Diputado de la República,2022,Anual,7012388,5200000,Ley 21.233 / Resolución CADP 2020,Cámara de Diputadas y Diputados,Dieta congelada
+Diputado de la República,2023,Anual,7348983,5450000,Ley 21.233 / Reajuste Sector Público,Cámara de Diputadas y Diputados,Reajuste IPC
+Diputado de la República,2024,Anual,7348983,5450000,Ley 21.233 / Comisión Remuneraciones,Cámara de Diputadas y Diputados,Monto bruto vigente
+Diputado de la República,2025,Anual,7620000,5650000,Ley Reajuste Sector Público,Cámara de Diputadas y Diputados,Reajuste indexado
+Diputado de la República,2026,Anual,7890000,5850000,Comisión Técnica Art. 38 bis CPR,Cámara de Diputadas y Diputados,Fijación definitiva comisión técnica
+Senador de la República,2018,Anual,9349851,6600000,Constitución Política Art. 62,Senado de la República,Misma dieta legal que Diputados
+Senador de la República,2019,Anual,9349851,6600000,Constitución Política Art. 62,Senado de la República,Misma dieta legal que Diputados
+Senador de la República,2020,Ene-Jul,9349851,6600000,Constitución Política Art. 62,Senado de la República,Pre rebaja CADP
+Senador de la República,2020,Ago-Dic,7012388,5200000,Ley 21.233 / Resolución CADP 2020,Senado de la República,Rebaja transitoria del 25%
+Senador de la República,2021,Anual,7012388,5200000,Ley 21.233 / Resolución CADP 2020,Senado de la República,Dieta congelada
+Senador de la República,2022,Anual,7012388,5200000,Ley 21.233 / Resolución CADP 2020,Senado de la República,Dieta congelada
+Senador de la República,2023,Anual,7348983,5450000,Ley 21.233 / Reajuste Sector Público,Senado de la República,Reajuste IPC
+Senador de la República,2024,Anual,7348983,5450000,Ley 21.233 / Comisión Remuneraciones,Senado de la República,Monto bruto vigente
+Senador de la República,2025,Anual,7620000,5650000,Ley Reajuste Sector Público,Senado de la República,Reajuste indexado
+Senador de la República,2026,Anual,7890000,5850000,Comisión Técnica Art. 38 bis CPR,Senado de la República,Fijación definitiva comisión técnica
+Expresidente de la República (Dieta Vitalicia),2018,Anual,9349851,6600000,Constitución Política Art. 30 (Ley 19.672),Senado de la República (Finanzas),Equiparada por Constitución a dieta parlamentaria
+Expresidente de la República (Dieta Vitalicia),2019,Anual,9349851,6600000,Constitución Política Art. 30 (Ley 19.672),Senado de la República (Finanzas),Equiparada por Constitución a dieta parlamentaria
+Expresidente de la República (Dieta Vitalicia),2020,Ene-Jul,9349851,6600000,Constitución Política Art. 30 (Ley 19.672),Senado de la República (Finanzas),Pre rebaja CADP
+Expresidente de la República (Dieta Vitalicia),2020,Ago-Dic,7012388,5200000,Ley 21.233 / Art. 30 CPR,Senado de la República (Finanzas),Afecta a la rebaja transitoria de la dieta
+Expresidente de la República (Dieta Vitalicia),2021,Anual,7012388,5200000,Ley 21.233 / Art. 30 CPR,Senado de la República (Finanzas),Monto equiparado a parlamentarios
+Expresidente de la República (Dieta Vitalicia),2022,Anual,7012388,5200000,Ley 21.233 / Art. 30 CPR,Senado de la República (Finanzas),Monto equiparado a parlamentarios
+Expresidente de la República (Dieta Vitalicia),2023,Anual,7348983,5450000,Ley 21.233 / Reajuste Sector Público,Senado de la República (Finanzas),Reajuste indexado
+Expresidente de la República (Dieta Vitalicia),2024,Anual,7348983,5450000,Constitución Art. 30 / Ley 21.233,Senado de la República (Finanzas),Monto bruto vigente
+Expresidente de la República (Dieta Vitalicia),2025,Anual,7620000,5650000,Constitución Art. 30 / Reajuste Ley,Senado de la República (Finanzas),Monto reajustado
+Expresidente de la República (Dieta Vitalicia),2026,Anual,7890000,5850000,Constitución Art. 30 / Comisión Técnica,Senado de la República (Finanzas),Equiparada a fijación definitiva
